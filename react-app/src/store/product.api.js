@@ -24,6 +24,12 @@ const data = {
       description: 'Bag of grapes',
       quantity: 1,
     },
+    {
+      id: 50,
+      name: 'Eggs',
+      description: 'Dozen big eggs',
+      quantity: 1,
+    }
   ],
 };
 
